@@ -1,14 +1,14 @@
 import os
 
-# Round 3: a sharpening of the round-2 sentence that won its round —
-# "tonight" moves up to the ask itself so the urgency lands earlier,
-# and a full stop before the risk reversal makes the pitch land in
-# one clean read.
+# Round 4 (final): mirror the round-3 winners — a CONCRETE everyday
+# idea (mum's recipe app) instead of the generic "that app idea",
+# keeping the round-2 winner's bones: plain words, tonight, first
+# version on your phone, no coding, ten-minute worst case.
 SENTENCE = (
-    "That app idea you keep mentioning? Type it into make.fun in your "
-    "own words tonight — an AI agent builds a first version you can "
-    "open on your phone. No coding, you approve every change, and "
-    "worst case it costs you ten minutes."
+    "That recipe app your mum keeps asking for? Type it into make.fun "
+    "in your own words tonight — an AI agent builds a first version "
+    "you can open on your phone. No coding, you approve every change, "
+    "and worst case it costs you ten minutes."
 )
 
 
