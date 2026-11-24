@@ -1,10 +1,13 @@
 import os
 
+# Round 2: shorter and more direct than round 1 — the friend is spoken
+# to in the first five words, the payoff lands tonight, and the risk is
+# priced honestly at ten minutes.
 SENTENCE = (
-    "That app idea you keep saying someone should build — describe it "
-    "in your own words on make.fun and an AI agent will build a first "
-    "version you can open on your phone, poke at, and change: no coding, "
-    "and you stay in charge of every change."
+    "That app idea you keep mentioning? Type it into make.fun in your "
+    "own words — an AI agent builds a first version you can open on "
+    "your phone tonight. No coding, you approve every change, and "
+    "worst case you've spent ten minutes."
 )
 
 
